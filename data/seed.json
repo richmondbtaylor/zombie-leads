@@ -1,0 +1,69 @@
+{
+  "leads": [
+    { "id": "l1", "name": "Maria Lopez", "firstName": "Maria", "title": "Owner", "company": "Sunrise Bakery", "companySize": 8, "email": "maria@example.com", "industry": "Food", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [{ "id": "n1", "at": "2026-10-20T14:05:00.000Z", "text": "Found her bakery on a local food blog. Sells wedding cakes." }],
+      "activity": [{ "at": "2026-10-20T14:05:00.000Z", "text": "Note added" }, { "at": "2026-10-20T14:00:00.000Z", "text": "Lead added" }] },
+    { "id": "l2", "name": "James Carter", "firstName": "James", "title": "VP of Sales", "company": "Palmetto Logistics", "companySize": 320, "email": "james@example.com", "industry": "Logistics", "city": "Miami", "status": "Contacted", "optedOut": false,
+      "notes": [{ "id": "n2", "at": "2026-10-22T16:30:00.000Z", "text": "Asked us to call back after the holidays." }],
+      "activity": [{ "at": "2026-10-22T16:30:00.000Z", "text": "Note added" }, { "at": "2026-10-21T10:15:00.000Z", "text": "Status changed from New to Contacted" }, { "at": "2026-10-19T09:00:00.000Z", "text": "Lead added" }] },
+    { "id": "l3", "name": "Aisha Rahman", "firstName": "Aisha", "title": "Marketing Manager", "company": "Bayfront Realty", "companySize": 45, "email": "aisha@example.com", "industry": "Real Estate", "city": "Fort Lauderdale", "status": "Replied", "optedOut": false,
+      "notes": [],
+      "activity": [{ "at": "2026-10-23T11:20:00.000Z", "text": "Status changed from Contacted to Replied" }, { "at": "2026-10-19T09:05:00.000Z", "text": "Lead added" }] },
+    { "id": "l4", "name": "Tom Nguyen", "firstName": "Tom", "title": "Founder", "company": "Coral Labs", "companySize": 12, "email": "", "industry": "Software", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [{ "id": "n3", "at": "2026-10-24T13:00:00.000Z", "text": "No email yet. Try the enrich button." }],
+      "activity": [{ "at": "2026-10-24T13:00:00.000Z", "text": "Note added" }, { "at": "2026-10-19T09:10:00.000Z", "text": "Lead added" }] },
+    { "id": "l5", "name": "Elena Ruiz", "firstName": "Elena", "title": "Director of Operations", "company": "Gables Dental Group", "companySize": 90, "email": "elena@example.com", "industry": "Healthcare", "city": "Coral Gables", "status": "Booked", "optedOut": false,
+      "notes": [{ "id": "n4", "at": "2026-10-25T15:45:00.000Z", "text": "Demo booked for Nov 4 at 10am." }],
+      "activity": [{ "at": "2026-10-25T15:45:00.000Z", "text": "Note added" }, { "at": "2026-10-25T15:40:00.000Z", "text": "Status changed from Replied to Booked" }, { "at": "2026-10-19T09:15:00.000Z", "text": "Lead added" }] },
+    { "id": "l6", "name": "Sam Patel", "firstName": "Sam", "title": "Sales Rep", "company": "Ocean Drive Hotels", "companySize": 600, "email": "sam@example.com", "industry": "Hospitality", "city": "Miami Beach", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-19T09:20:00.000Z", "text": "Lead added" }] },
+    { "id": "l7", "name": "Linda Brooks", "firstName": "Linda", "title": "Chief Executive Officer", "company": "Everglades Solar", "companySize": 150, "email": "linda@example.com", "industry": "Energy", "city": "Hialeah", "status": "Contacted", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-26T09:30:00.000Z", "text": "Status changed from New to Contacted" }, { "at": "2026-10-19T09:25:00.000Z", "text": "Lead added" }] },
+    { "id": "l8", "name": "Diego Silva", "firstName": "Diego", "title": "Head of Growth", "company": "Brickell Fitness", "companySize": 60, "email": "", "industry": "Fitness", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-19T09:30:00.000Z", "text": "Lead added" }] },
+    { "id": "l9", "name": "Priya Shah", "firstName": "Priya", "title": "Office Manager", "company": "Wynwood Studio", "companySize": 6, "email": "priya@example.com", "industry": "Design", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-19T09:35:00.000Z", "text": "Lead added" }] },
+    { "id": "l10", "name": "Carlos Mendez", "firstName": "Carlos", "title": "CFO", "company": "Key Biscayne Marine", "companySize": 210, "email": "carlos@example.com", "industry": "Marine", "city": "Key Biscayne", "status": "Replied", "optedOut": false,
+      "notes": [{ "id": "n5", "at": "2026-10-27T12:10:00.000Z", "text": "Wants a price list before a call." }],
+      "activity": [{ "at": "2026-10-27T12:10:00.000Z", "text": "Note added" }, { "at": "2026-10-26T17:00:00.000Z", "text": "Status changed from Contacted to Replied" }, { "at": "2026-10-19T09:40:00.000Z", "text": "Lead added" }] },
+    { "id": "l11", "name": "Grace Kim", "firstName": "Grace", "title": "Owner", "company": "Kendall Pet Spa", "companySize": 14, "email": "grace@example.com", "industry": "Pets", "city": "Kendall", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-27T08:00:00.000Z", "text": "Lead added" }] },
+    { "id": "l12", "name": "Front Desk", "firstName": "", "title": "Office Manager", "company": "Doral Auto Repair", "companySize": 22, "email": "frontdesk@example.com", "industry": "Automotive", "city": "Doral", "status": "New", "optedOut": false,
+      "notes": [{ "id": "n6", "at": "2026-10-27T08:20:00.000Z", "text": "Only a shared inbox. We do not know the owner's name yet." }],
+      "activity": [{ "at": "2026-10-27T08:20:00.000Z", "text": "Note added" }, { "at": "2026-10-27T08:05:00.000Z", "text": "Lead added" }] },
+    { "id": "l13", "name": "Hector Alvarez", "firstName": "Hector", "title": "Director of Sales", "company": "Calle Ocho Coffee Roasters", "companySize": 55, "email": "hector@example.com", "industry": "Food", "city": "Miami", "status": "Contacted", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-28T10:00:00.000Z", "text": "Status changed from New to Contacted" }, { "at": "2026-10-27T08:10:00.000Z", "text": "Lead added" }] },
+    { "id": "l14", "name": "Nadia Petrov", "firstName": "Nadia", "title": "Founder", "company": "Sunset Yoga House", "companySize": 9, "email": "nadia@example.com", "industry": "Fitness", "city": "Miami Beach", "status": "Replied", "optedOut": true,
+      "notes": [{ "id": "n7", "at": "2026-10-28T14:30:00.000Z", "text": "Replied \"please stop emailing me\". Marked as opted out." }],
+      "activity": [{ "at": "2026-10-28T14:30:00.000Z", "text": "Marked as opted out" }, { "at": "2026-10-28T14:29:00.000Z", "text": "Note added" }, { "at": "2026-10-27T08:15:00.000Z", "text": "Lead added" }] },
+    { "id": "l15", "name": "Owen Baker", "firstName": "Owen", "title": "Chief Technology Officer", "company": "Biscayne Cloud Works", "companySize": 240, "email": "owen@example.com", "industry": "Software", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-28T09:00:00.000Z", "text": "Lead added" }] },
+    { "id": "l16", "name": "Rosa Delgado", "firstName": "Rosa", "title": "Marketing Manager", "company": "Little Havana Tours", "companySize": 35, "email": "rosa@example.com", "industry": "Hospitality", "city": "Miami", "status": "New", "optedOut": false,
+      "notes": [], "activity": [{ "at": "2026-10-28T09:05:00.000Z", "text": "Lead added" }] }
+  ],
+  "lists": [
+    { "id": "ls1", "name": "Miami hot leads", "leadIds": ["l2", "l5"] },
+    { "id": "ls2", "name": "Follow up this week", "leadIds": ["l1", "l3", "l10", "l13"] },
+    { "id": "ls3", "name": "Small local shops", "leadIds": ["l1", "l9", "l11", "l12"] }
+  ],
+  "sequences": [
+    { "id": "sq1", "name": "Intro to local businesses", "steps": [
+      { "day": 0, "message": "Hi {firstName}, I help {company} get more leads without extra work. Open to a quick look?" },
+      { "day": 3, "message": "Hi {firstName}, following up on my note. Happy to share how similar shops in Miami do it." },
+      { "day": 7, "message": "Hi {firstName}, last note from me. Should I close the loop on this?" }
+    ] },
+    { "id": "sq2", "name": "Warm replies follow-up", "steps": [
+      { "day": 0, "message": "Thanks for replying, {firstName}. Here is a short summary of what we do." },
+      { "day": 2, "message": "{firstName}, would Tuesday or Thursday work for a 15 minute call?" },
+      { "day": 5, "message": "Hi {firstName}, I will check back next month unless you want to talk sooner." }
+    ] }
+  ],
+  "enrollments": [
+    { "id": "en1", "sequenceId": "sq1", "leadId": "l1", "step": 1, "addedAt": "2026-10-26T09:00:00.000Z" },
+    { "id": "en2", "sequenceId": "sq1", "leadId": "l11", "step": 2, "addedAt": "2026-10-24T09:00:00.000Z" },
+    { "id": "en3", "sequenceId": "sq1", "leadId": "l12", "step": 1, "addedAt": "2026-10-28T09:00:00.000Z" },
+    { "id": "en4", "sequenceId": "sq1", "leadId": "l14", "step": 3, "addedAt": "2026-10-21T09:00:00.000Z" },
+    { "id": "en5", "sequenceId": "sq2", "leadId": "l3", "step": 1, "addedAt": "2026-10-27T09:00:00.000Z" },
+    { "id": "en6", "sequenceId": "sq2", "leadId": "l10", "step": 2, "addedAt": "2026-10-27T10:00:00.000Z" }
+  ]
+}
